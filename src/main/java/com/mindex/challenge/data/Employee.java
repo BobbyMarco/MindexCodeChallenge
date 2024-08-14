@@ -8,6 +8,8 @@ public class Employee {
     private String lastName;
     private String position;
     private String department;
+    private String salary;
+    private String effectiveDate;
     private List<Employee> directReports;
 
     public Employee() {
